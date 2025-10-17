@@ -1,0 +1,14 @@
+body{
+    background-color: #f0f0f0;
+}
+main>section{
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+}
+
+main>section>article{
+    border: 1px solid gray;
+    padding: 5px;
+    margin: 5px;
+}
